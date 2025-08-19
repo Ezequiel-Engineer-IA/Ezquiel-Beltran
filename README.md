@@ -15,8 +15,18 @@
 
 <!-- LET'S CONNECT -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ezequiel-beltran"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ezequielbeltran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.notion.so/2540865648a7806f9d6ed4d117dc4115?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  <a href="https://docs.google.com/document/d/1vgwHA5p36i-ssBImqzS09gYHW9H3Vic70nS0mqzgoHo/edit?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=googledocs&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ezequiel-beltran" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ezequielbeltran@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -64,10 +74,9 @@
 
 ## ✨ About Me
 
-I’m Ezequiel Beltrán, a Data Science & AI student at *IFES (Argentina), passionate about applying **Machine Learning and AI* to real-world problems. Alongside my academic training, I’m complementing my growth with *international certifications on Coursera* (DeepLearning.AI, Google, IBM), focusing on *ML, neural networks, and AI applications*.
-
-- *Core stack:* Python, SQL (PostgreSQL), Scikit-learn, TensorFlow, PyTorch  
-- *What I bring:* solid academic foundation + self-learner mindset; ability to turn data into AI-driven solutions; focus on scalable, production-ready models  
+Hi, I’m Ezequiel Beltrán, an AI student on my path to becoming an ML Engineer & AI Developer.
+I’m currently focusing on Python and Scikit-learn to build solid machine learning foundations.
+My next steps are expanding into TensorFlow, PyTorch, and SQL, aiming to create end-to-end ML projects.
 - *Languages:* Spanish (native), English (intermediate)
 
 ---
@@ -75,4 +84,4 @@ I’m Ezequiel Beltrán, a Data Science & AI student at *IFES (Argentina), passi
 ## 📬 Let’s Connect
 
 If you’re looking for a motivated *ML Engineer / AI Developer (in training)*:  
-*[ezequielbeltran@gmail.com](mailto:ezequielbeltran@gmail.com)* · [LinkedIn](https://www.linkedin.com/in/ezequiel-beltran)
+*[ezenqn2002@gmail.com](mailto:ezenqn2002@gmail.com)* · [LinkedIn](https://www.linkedin.com/in/ezequiel-beltran/)
