@@ -16,7 +16,7 @@
 <!-- LET'S CONNECT -->
 <p align="center">
   <a href="https://www.notion.so/2540865648a7806f9d6ed4d117dc4115?source=copy_link" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=yellow" />
   </a>
   <a href="https://docs.google.com/document/d/1vgwHA5p36i-ssBImqzS09gYHW9H3Vic70nS0mqzgoHo/edit?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=googledocs&logoColor=white" />
